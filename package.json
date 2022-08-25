@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^5.2.0",
     "next": "12.2.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-bootstrap": "^2.5.0",
+    "react-bootstrap-multiselect": "^2.4.1",
+    "react-dom": "18.2.0",
+    "react-drag-drop-files": "^2.3.7",
+    "react-dropzone": "^14.2.2",
+    "react-file-manager-ui": "^1.0.11",
+    "react-sage": "^0.3.16"
   },
   "devDependencies": {
     "eslint": "8.21.0",
